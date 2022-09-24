@@ -1,2 +1,1 @@
-# aulaGIT
-exemplo de projeto para apresentar o uso do git
+Progama para apresentar a aula do git
